@@ -1,0 +1,11 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "files.autoSave": "afterDelay",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.minimap.autohide": false,
+  "files.exclude": {
+    "node_modules": true,
+    ".vscode": true
+  }
+}
